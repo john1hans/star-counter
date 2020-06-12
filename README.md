@@ -2,23 +2,8 @@
 
 
 
-# Making symbols w/ stars and added star counter. enjoy ^^.
+# Making symbols w/ stars and added star counter.
 
-
-# Run
-# “
-
-./a.out 
-
-or
-
-filename.cpp
-
-or
-
-wine filename.exe
-
-# ”
 
 
 
