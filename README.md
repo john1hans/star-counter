@@ -7,11 +7,17 @@
 
 # Run
 # “
+
 ./a.out 
+
 or
+
 filename.cpp
+
 or
+
 wine filename.exe
+
 # ”
 
 
